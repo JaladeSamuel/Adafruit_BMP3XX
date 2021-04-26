@@ -1,6 +1,6 @@
 # Adafruit_BMP3XX [![Build Status](https://github.com/adafruit/Adafruit_BMP3XX/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_BMP3XX/actions)
 
-<img src="https://cdn-shop.adafruit.com/970x728/3966-00.jpg" height="300"/>
+Pinout : https://learn.adafruit.com/adafruit-bmp388-bmp390-bmp3xx/pinouts
 
 This is a library for the Adafruit BMP388 precision pressure sensor breakout:
   * https://www.adafruit.com/products/3966
